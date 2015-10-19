@@ -11,7 +11,7 @@ function viewResults(){
 }
 
 function seeResults(){
-	var x=5;
+	var x=54;
 	var y=4;
 	alert (x%y);
 }
