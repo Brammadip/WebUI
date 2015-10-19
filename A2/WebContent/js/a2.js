@@ -7,6 +7,7 @@ function showResults(){
 function viewResults(){
 	var x=5;
 	var y=4;
+	alert (x)
 	alert (x*y);
 }
 
